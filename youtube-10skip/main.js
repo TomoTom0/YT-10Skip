@@ -1,4 +1,3 @@
-//テスト用　const heartImg = chrome.extension.getURL("imgs/heart.svg");
 const rightImg = chrome.extension.getURL("imgs/right.svg");
 const leftImg = chrome.extension.getURL("imgs/left.svg");
 
