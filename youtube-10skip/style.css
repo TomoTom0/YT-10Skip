@@ -1,0 +1,28 @@
+#nextSkip-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    width: 36px;
+    min-width: 36px;
+    padding: 9.5px;
+}
+#nextSkip-button:focus {
+    outline: 0;
+}
+
+#backSkip-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    width: 36px;
+    min-width: 36px;
+    padding: 9.5px;
+}
+#backSkip-button:focus {
+    outline: 0;
+}
+
+#skip-button-icon {
+    width: 20px;
+    margin-bottom: 30%;
+}
